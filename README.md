@@ -1,6 +1,6 @@
 # Aspect-Based Sentiment Analysis for Mobile Phone Reviews Using AI Techniques
 
-(7COM1039: Data Science Master’s Project)
+(7PAM2002-0901-2024: Data Science Master’s Project)
 
 This project aims to perform **aspect-based sentiment analysis** on customer reviews of mobile phones from Flipkart. The primary objective is to classify sentiments and extract insights using advanced AI techniques.
 
